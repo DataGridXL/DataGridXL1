@@ -2,6 +2,8 @@
 
 DataGridXL 2 adds dozens of new features! It will remain the most performant and reliable vanilla Javascript data grid with Excel-like controls.
 
+https://www.datagridxl.com/v2-coming-soon
+
 ---
 
 # DataGridXL

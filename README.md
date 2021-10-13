@@ -1,3 +1,9 @@
+#Coming Q4 2021: DGXL2!
+
+DataGridXL 2 adds dozens of new features! It will remain the most performant and reliable vanilla Javascript data grid with Excel-like controls.
+
+---
+
 # DataGridXL
 
 An official repository for DataGridXL v1: the reliable &amp; performant Vanilla Javascript data grid (free version).

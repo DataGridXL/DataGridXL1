@@ -1,6 +1,6 @@
 **Note: this is a repo for DataGridXL version 1.**
 
-**For DataGridXL 2, visit https://github.com/DataGridXL/DataGridXL2**
+# For DataGridXL 2, visit https://github.com/DataGridXL/DataGridXL2**
 
 ---
 

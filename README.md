@@ -1,3 +1,5 @@
+**Note: this is a repo for DataGridXL version 1. For latest version, visit https://github.com/DataGridXL/DataGridXL2**
+
 # Coming 02-02-2022: DGXL2!
 
 DataGridXL 2 adds dozens of new features! It will remain the most performant and reliable vanilla Javascript data grid with Excel-like controls.

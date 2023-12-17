@@ -12,7 +12,15 @@ Without a license:
 **How to display the logo/link**
 
 The text link should have a font-size of at least `14px` and the text "DataGridXL" should be clearly a link: underlined and in a color that makes it clear that it is indeed a link.
- 
-To get rid of the link, purchase a license. 
+
+**Additional Conditions**
+
+### You can't
+
+* Remove or alter this LICENSE file.
+* Remove any of the DataGridXL copyright notices ("banners") from any of the files of DataGridXL software.
+* Use DataGridXL software without any kind of prominent attribution (bundled or custom). Please see note about commercial DataGridXL licenses below.
+* Sell or receive any consideration for DataGridXL software.
+* Distribute DataGridXL software on its own, not as part of other application.
 
 To purchase a commercial license for the current version of this library, visit [DataGridXL Online Store](https://datagridxl.com/buy)

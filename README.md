@@ -1,4 +1,4 @@
-**Note: this is a repo for DataGridXL version 1.**
+**Note: this is a repo for (DEPRECATED) DataGridXL version 1.**
 
 ## For DataGridXL 2, visit https://github.com/DataGridXL/DataGridXL2
 
@@ -6,13 +6,9 @@
 
 # DataGridXL
 
-An official repository for DataGridXL v1: the reliable &amp; performant Vanilla Javascript data grid (free version).
+An official repository for DataGridXL v1: the reliable &amp; performant Vanilla Javascript data grid.
 
 ![DataGridXL Screenshot](https://github.com/DataGridXL/DataGridXL/blob/master/images/javascript-spreadsheet.png?raw=true)
-
-## Getting support
-
-**Important!** For questions regarding usage of this product, see [DataGridXL Support](https://datagridxl.com/support).
 
 ## Usage
 
@@ -24,22 +20,22 @@ Include `datagridxl.js` in your web page HTML file:
 
 ## License
 
-This DataGridXL software is free under a linkware license.
+**Important: To use DataGridXL in live environments, a license is required.**
 
-This means you may not remove or hide in any other way link to DataGridXL
-web site - https://datagridxl.com.
+ONLY for non-live environments (internal development purposes), you can use DataGridXL without a license.
 
-If you wish to remove the link, you should purchase commercial license.
+Without a license:
 
-You may not redistribute, sublicense or sell this program without written
-permission of Vanilla Components, the creator of DataGridXL software.
+* you are required to show the DataGridXL text link ("data grid by [DataGridXL](https://datagridxl.com)") at all times
+* you are not entitled to receive any technical support
 
-This software is provided without warranty.
+**How to display the logo/link**
 
-## Commercial license
+The text link should have a font-size of at least `14px` and the text "DataGridXL" should be clearly a link: underlined and in a color that makes it clear that it is indeed a link.
+ 
+To get rid of the link, purchase a license.
 
-To purchase a commercial license for the current version of this library, visit
-[DataGridXL Online Store](https://datagridxl.com/buy)
+To purchase a commercial license for the current version of this library, visit [DataGridXL Online Store](https://datagridxl.com/buy)
 
 ## More info
 
